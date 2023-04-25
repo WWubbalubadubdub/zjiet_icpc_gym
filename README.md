@@ -9,22 +9,32 @@
 
 #### [题解规范](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/Solution%20specification.md)
 
-# 简单的开始
+## 简单的开始
 - [两数之和](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
-# 基础
+## 基础合集
 #### 基础算法
+___
 
-##### 快速排序
+##### 1.快速排序
 - [快速排序]()
 
-##### 二分
+##### 2.二分
 -
+
+##### 3.前缀和与拆分
+-
+
 #### 数据结构
+___
 
 #### 搜索与图论
+___
 
 #### 数学知识
+___
 
 #### 动态规划
+___
 
 #### 贪心
+___
