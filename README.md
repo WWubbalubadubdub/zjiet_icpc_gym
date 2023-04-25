@@ -9,6 +9,7 @@
 
 #### [题解规范](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/Solution%20specification.md)
 
+### 项目目前处于初始阶段，若您有好的建议或者想上传题解可lssues or Pull requests或可以直接加我VX!  ![Alt text](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/vx.jpg)
 ## 简单的开始
 - [两数之和](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 ## 基础合集
