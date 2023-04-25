@@ -6,3 +6,6 @@
 上传的每道题都会保证在1~3周之内给出题解（否则删除）  
 题解如果来自网络（例如CSDN）那么代码风格无法保证  
 除此之外一切代码的风格严格按照Google C++编程规范来写
+
+#简单的开始
+- [两数之和](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
