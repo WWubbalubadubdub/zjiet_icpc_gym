@@ -9,5 +9,5 @@
 
 #### [题解规范](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/Solution%20specification.md)
 
-#简单的开始
+# 简单的开始
 - [两数之和](https://github.com/WWubbalubadubdub/zjiet_icpc_gym/blob/main/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
